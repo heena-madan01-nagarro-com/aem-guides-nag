@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/nag" mode="merge"/>
+    <filter root="/content/nag" mode="merge"/>
+    <filter root="/content/dam/nag" mode="merge"/>
+    <filter root="/content/experience-fragments/nag" mode="merge"/>
+</workspaceFilter>

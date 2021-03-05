@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/nag/clientlibs"/>
+    <filter root="/apps/nag/components"/>
+    <filter root="/apps/nag/i18n"/>
+</workspaceFilter>
